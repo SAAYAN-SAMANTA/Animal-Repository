@@ -1,0 +1,9 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+.face{
+     width: '18rem';
+     border-radius:20px;
+}
